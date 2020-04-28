@@ -5,4 +5,4 @@ other = "Hallo"
 other = "Ik ben"
 
 [generator]
-other = "Copyright &copy; 2020 Chester Leung"
+other = "Gemaakt met <a href='https://gohugo.io'>Hugo</a> en thema <a href='https://github.com/EmielH/hallo-hugo/'>Hallo</a>."

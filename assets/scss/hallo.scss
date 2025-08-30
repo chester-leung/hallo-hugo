@@ -3,6 +3,9 @@ $color-background: {{ .Site.Params.colors.background | default "#6fcdbd" }};
 $color-foreground: {{ .Site.Params.colors.foreground | default "#fff" }};
 $color-hover: {{ .Site.Params.colors.hover | default "#333" }};
 
+// Font
+$font-family: {{ .Site.Params.font.family | default "Montserrat, 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif" }};
+
 @import 'hallo/variables';
 @import 'hallo/base';
 @import 'hallo/layout';
